@@ -4,7 +4,7 @@ import {SafeAreaView, Text} from 'react-native';
 const App = () => {
   return (
     <SafeAreaView>
-      <Text>FoodMarket React Nativeee</Text>
+      <Text>FoodMarket React Native</Text>
     </SafeAreaView>
   );
 };
